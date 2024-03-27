@@ -1,4 +1,4 @@
-<h1 align="center">Привет, Я <a href="https://github.com/Fezwer/2computers" target="_blank">Студент!</a>
+<h1 align="center">Привет, Я <a href="https://github.com/Stason5111/stason5111.github.io" target="_blank">Студент!</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Хотите узнать немного информации обо мне? Тогда этот сайт для Вас!</h3>
 <br>
