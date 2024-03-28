@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(248, 254, 255, 1);
+    background-color: rgb(245, 252, 255);
     margin-top: 100px;
 }
 
@@ -9,7 +9,7 @@ body {
     font-size: 27px;
     font-weight: lighter;
     font-style: normal;
-    color: rgb(37, 52, 74);
+    color: rgb(40, 51, 75);
 }
 
 div {
@@ -34,7 +34,7 @@ div {
     font-style: normal;
     white-space: nowrap;
     font-family: 'Times New Roman', Times, serif;
-    color: rgba(37, 52, 74, 1);
+    color: rgb(40, 51, 75);
 }
 
 #student, #gorod {
